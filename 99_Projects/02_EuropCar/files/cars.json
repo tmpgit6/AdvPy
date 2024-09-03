@@ -1,0 +1,5 @@
+[
+    {"id": 1, "mark": "Audi 1", "bj": 2020, "price": 100},
+    {"id": 2, "mark": "Audi 2", "bj": 2021, "price": 200},
+    {"id": 3, "mark": "Audi 3", "bj": 2022, "price": 300}
+]

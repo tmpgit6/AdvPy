@@ -1,5 +1,17 @@
 {
-    "correct_case": true,
-    "print_in_terminal": true,
-    "save_in_file": true
+    "meta":{
+        "author": "Mohamed",
+        "version": 1.0
+    },
+    "app":{
+            "correct_case": true,
+            "print_in_terminal": true,
+            "save_in_file": true,
+            "export_dir": "exports"
+            },
+    "cars":[
+        {"id": 1, "mark": "Audi 1", "bj": 2020, "price": 100},
+        {"id": 2, "mark": "Audi 2", "bj": 2021, "price": 200},
+        {"id": 3, "mark": "Audi 3", "bj": 2022, "price": 300}
+    ] 
 }

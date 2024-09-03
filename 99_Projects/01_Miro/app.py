@@ -14,6 +14,7 @@ def load_menu():
 
     return menu
 
+
 def show_menu(menu):
     valid_ids = []
 
