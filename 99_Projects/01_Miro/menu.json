@@ -1,0 +1,13 @@
+{
+    "Pizzen": [
+        {"id": 100, "title":"Pizza Margeritta", "price": 5},
+        {"id": 101, "title":"Pizza Tunfisch", "price": 5},
+        {"id": 102, "title":"Pizza Funghi", "price": 5}
+    ],
+
+    "Auflauf":[
+        {"id": 200, "title":"Auflauf Nudeln", "price": 5},
+        {"id": 201, "title":"Auflauf Kartoffeln", "price": 5}
+        
+    ]
+}
