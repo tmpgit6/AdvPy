@@ -22,7 +22,6 @@ class Employee:
 
     
 # Consumer
-
 thomas = Employee("Thomas", "Meier")
 
 
