@@ -18,8 +18,8 @@ class Employee:
     def __gt__(self, other):
         return self.salary > other.salary
     
-    def __len__(self):
-        return len(self.first_name)
+    # def __len__(self):
+    #     return len(self.first_name)
     
 
 
@@ -39,6 +39,7 @@ print(thomas + frank)
 print(thomas > frank)
 
 print(len(thomas))
+print(len(["A", "B"]))
 
 
 
