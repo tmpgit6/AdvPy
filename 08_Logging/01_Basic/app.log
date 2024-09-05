@@ -1,0 +1,15 @@
+root - DEBUG - app.py - X:7, Y:8
+root - DEBUG - app.py - X:7, Y:8
+root - DEBUG - app.py - X:7, Y:8
+root - DEBUG - app.py - X:7, Y:8
+root - DEBUG - app.py - Application is started
+root - DEBUG - app.py - X:7, Y:8
+root - DEBUG - app.py - Application is finished
+root - DEBUG - app.py - Application3 is started
+root - DEBUG - app.py - X:7, Y:8
+root - DEBUG - app.py - This is a DEBUG message
+root - INFO - app.py - This is a info message
+root - WARNING - app.py - This is a warning message
+root - ERROR - app.py - This is a error message
+root - CRITICAL - app.py - This is a critical message
+root - DEBUG - app.py - Application3 is finished

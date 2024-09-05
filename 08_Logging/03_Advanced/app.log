@@ -1,0 +1,15 @@
+2024-09-05 11:18:25,149 - root - INFO - Application is started
+2024-09-05 11:23:01,100 - root - INFO - Application is started
+2024-09-05 11:23:01,100 - root - INFO - Encrypter Alg1 is started
+2024-09-05 11:23:01,100 - root - INFO - Encrypter Alg2 is started
+2024-09-05 11:23:01,100 - root - INFO - Application is finished
+2024-09-05 11:23:31,253 - root - INFO - Application is started
+2024-09-05 11:23:31,254 - root - INFO - Encrypter Alg1 is started
+2024-09-05 11:23:31,254 - root - ERROR - division by zero
+2024-09-05 11:23:31,254 - root - INFO - Encrypter Alg2 is started
+2024-09-05 11:23:31,255 - root - INFO - Application is finished
+2024-09-05 11:25:37,978 - root - INFO - app.py - 17 - Application is started
+2024-09-05 11:25:37,978 - root - INFO - algorithmen.py - 11 - Encrypter Alg1 is started
+2024-09-05 11:25:37,979 - root - ERROR - algorithmen.py - 16 - division by zero
+2024-09-05 11:25:37,979 - root - INFO - algorithmen.py - 20 - Encrypter Alg2 is started
+2024-09-05 11:25:37,979 - root - INFO - app.py - 24 - Application is finished

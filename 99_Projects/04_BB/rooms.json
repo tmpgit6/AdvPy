@@ -1,0 +1,6 @@
+{
+    "rooms": [
+        {"id": 1, "roomtype": "Single Room", "price": 100},
+        {"id": 2, "roomtype": "Double Room", "price": 150}
+    ]
+}
